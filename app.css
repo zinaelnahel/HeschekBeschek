@@ -49,3 +49,6 @@ p {
 #profile {
   border-radius: 20px;
 }
+.container-fluid {
+  overflow: hidden;
+}
